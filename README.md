@@ -1,6 +1,6 @@
 # Lab3AgileASSignment
 this is an assignment for Lab3 
-###assignment details 
+## assignment details 
 Create a new repository on github
 Clone the repository to your machine using git clone RepoUrl
 Create a new cpp file named yourID_yourName_main.cpp with summation function for two integers then stage it and commit
